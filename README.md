@@ -1,2 +1,2 @@
-# Games-using-HTML-CSS-JS
-This repository includes my personal projects executed using JS solely for the logic for the games.
+# Games-or-Animations
+This repository includes my personal projects such as games or simple animations made using few programming languages.
